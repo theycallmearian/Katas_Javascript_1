@@ -16,5 +16,5 @@ console.log(o)
 //1.5
 const c = 10
 const m = 5
-let i = 10 * 5
+let i = c * m
 console.log(i)
